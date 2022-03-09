@@ -1,1 +1,1 @@
-# GTPSLauncherPython
+# GTPSLauncher with Python
