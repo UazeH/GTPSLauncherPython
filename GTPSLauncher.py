@@ -2,7 +2,7 @@ import time
 import os
 
 def list():
-    os.system("title Menu List")
+    os.system("title List Menu")
     os.system("color 0c")
     os.system('cls')
     print("""[+] Menu :
